@@ -111,3 +111,20 @@ body {
 .icon-3 {
     background-color: rgba(237, 225, 146, 0.996);
 }
+
+.footers {
+    background-color: black;
+    text-align: center;
+    margin: 35px;
+    height: 200px;
+    padding-top: 50px;
+}
+
+.footers h1 {
+    color: rgb(244, 70, 64);
+    font-family: cursive;
+}
+
+.footers p {
+    color: white;
+}
