@@ -74,4 +74,40 @@ body {
 .button-center {
     text-align: center;
     margin-top: 40px;
+    margin-bottom: 135px;
+}
+
+.our-donate-plan {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.our-donate-plan h1 {
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.icon-flex {
+    display: flex;
+    height: 500px;
+}
+
+.icon {
+    width: 28%;
+    margin: 2%;
+    text-align: center;
+    border: 10px solid white;
+    padding-top: 60px;
+}
+
+.icon-1 {
+    background-color: rgba(166, 166, 232, 0.996);
+}
+
+.icon-2 {
+    background-color: rgba(250, 149, 169, 0.996);
+}
+
+.icon-3 {
+    background-color: rgba(237, 225, 146, 0.996);
 }
