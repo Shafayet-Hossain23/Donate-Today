@@ -34,3 +34,44 @@ body {
     width: 1511px;
     height: 800px;
 }
+
+.donate-today {
+    text-align: center;
+    margin-top: 130px;
+    margin-bottom: 50px;
+}
+
+.donate-today h1 {
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.taka-flex {
+    display: flex;
+    height: 150px;
+    margin-bottom: 70px;
+}
+
+.taka {
+    width: 20%;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+    border: 10px solid white;
+    background-color: rgba(240, 233, 233, 0.771);
+    padding: 50px;
+}
+
+.box-color {
+    border: 3px solid rgb(255, 89, 0);
+}
+
+.hr {
+    text-align: center;
+    color: gray;
+}
+
+.button-center {
+    text-align: center;
+    margin-top: 40px;
+}
