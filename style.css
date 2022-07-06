@@ -1,0 +1,36 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin-top: 0;
+}
+
+.donate-now {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.995);
+    padding-top: 250px;
+
+}
+
+.donate-now h1 {
+    font-weight: 800;
+    font-size: 65px;
+    margin-bottom: auto;
+}
+
+.margin {
+    margin-bottom: 45px;
+}
+
+.button-link {
+    text-decoration: none;
+    background-color: rgb(255, 96, 96);
+    padding: 14px 18px;
+    border-radius: 8px;
+    font-weight: 700;
+    color: white;
+}
+
+.header-bg-image {
+    background-image: url(images/bg3.jpg);
+    width: 1511px;
+    height: 800px;
+}
