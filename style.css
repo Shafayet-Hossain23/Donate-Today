@@ -128,3 +128,27 @@ body {
 .footers p {
     color: white;
 }
+
+.subscribe {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 150px;
+}
+
+.subscribe h1 {
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.email-bg {
+    background-color: rgba(252, 244, 199, 0.996);
+    height: 150px;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-top: 110px;
+}
+
+#input {
+    height: 40px;
+    width: 280px;
+}
