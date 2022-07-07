@@ -187,3 +187,22 @@ body {
 .customize p {
     padding-bottom: 30px;
 }
+
+.extra {
+    text-align: center;
+}
+
+.extra h1 {
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.extra-image {
+    width: 20%;
+    border: 20px solid white;
+    border-radius: 10px;
+}
+
+.middle {
+    margin-left: 60px;
+}
